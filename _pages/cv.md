@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* High school diploma in Chengdu, Chengdu Jiaxiang Foreign Languages School, 2019
+* B.Eng. in Beijing, Tsinghua University, 2023(expected)
 
-Work experience
+Research 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring& Summer 2022: Research Internship
+  * University of Maryland
+  * Projects inculded: convergence of overparametrized quantum neural network, quantum analog computation
+  * Supervisor: Professor Xiaodi Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2021 - : Research Internship
+  * Tsinghua University
+  * Projects included: intrinsic randomness of general quantum measurement, subspace shadow tomography
+  * Supervisor: Professor Xiongfeng Ma
+
+* Nov 2021 - : Research Internship
+  * Peking University
+  * Projects included: quantum algorithm for constructing supersingular isogeny
+  * Supervisor: Professor Tongyang Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Chinese(native)
+  * English
+  * German
+  * Japanese
+* Progroramming languages
+  * Advanced
+    * C++
+    * C
+    * Python
+    * Go
+    * Matlab
+    * Julia
+  * Basic
+    * Linux
+    * Java
 
 Publications
 ======

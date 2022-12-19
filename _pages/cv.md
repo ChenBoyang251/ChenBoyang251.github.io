@@ -70,4 +70,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of student committee on studying
+* Vice president in student association of ACG culture

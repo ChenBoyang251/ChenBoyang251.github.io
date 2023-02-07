@@ -24,4 +24,4 @@ About my website
 ------
 My website is powered by the [academicpages template](https://academicpages.github.io/) and hosted on GitHub pages.
 
-The website is still in progress.
+Contact: boyangchen12 at gmail dot com
